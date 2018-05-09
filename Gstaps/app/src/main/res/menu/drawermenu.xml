@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/dp" android:title="dashboard" android:icon="@drawable/travail"></item>
+    <item android:id="@+id/srch" android:title="search" android:icon="@drawable/travail" ></item>
+    <item android:id="@+id/ms" android:title="casablanca" android:icon="@drawable/travail" ></item>
+    <item android:id="@+id/ss" android:title="hna" android:icon="@drawable/travail" ></item>
+
+</menu>
